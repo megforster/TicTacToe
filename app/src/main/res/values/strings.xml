@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name = "welcomeMessage">Welcome to TicTacToe :)!</string>
+    <string name = "rulesOfTicTacToe">"To win in TicTacToe you need to get three of your symbols in a row! You and another player (in this case the computer) play on a three by three grid of squares. The first player chooses to be either X or O and the second player is the other symbol not picked. You and the computer will alternate placing your symbols into empty squares on teh board until someone have won or all the squares are filled."</string>
+    <string name = "beginButton">Click to start a game!</string>
+    <string name = "askName">Name:</string>
+    <string name = "reset">New Game</string>
+</resources>
